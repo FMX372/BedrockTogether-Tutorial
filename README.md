@@ -1,6 +1,6 @@
 ![Logo](https://cdn.discordapp.com/attachments/1004710896037273700/1005436974179557446/BedrockTogetherLogo.png)
 
-# BedrockTogether Tutorial
+# Bedrock Together Tutorial
 Conéctate a servidores externos desde tu consola usando tu móvil
 
 ## · Descargar la App
